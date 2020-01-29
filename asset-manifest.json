@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/gurcharan_portfolio/static/css/main.685de65c.chunk.css",
+    "main.js": "/gurcharan_portfolio/static/js/main.4e844d42.chunk.js",
+    "main.js.map": "/gurcharan_portfolio/static/js/main.4e844d42.chunk.js.map",
+    "runtime-main.js": "/gurcharan_portfolio/static/js/runtime-main.b36ebb63.js",
+    "runtime-main.js.map": "/gurcharan_portfolio/static/js/runtime-main.b36ebb63.js.map",
+    "static/js/2.18dd93e2.chunk.js": "/gurcharan_portfolio/static/js/2.18dd93e2.chunk.js",
+    "static/js/2.18dd93e2.chunk.js.map": "/gurcharan_portfolio/static/js/2.18dd93e2.chunk.js.map",
+    "index.html": "/gurcharan_portfolio/index.html",
+    "precache-manifest.22002d15d8889c7643c292926ff37a5d.js": "/gurcharan_portfolio/precache-manifest.22002d15d8889c7643c292926ff37a5d.js",
+    "service-worker.js": "/gurcharan_portfolio/service-worker.js",
+    "static/css/main.685de65c.chunk.css.map": "/gurcharan_portfolio/static/css/main.685de65c.chunk.css.map",
+    "static/media/bachelors.jpeg": "/gurcharan_portfolio/static/media/bachelors.7456923e.jpeg",
+    "static/media/big-eclipse copy.svg": "/gurcharan_portfolio/static/media/big-eclipse copy.ecb2be24.svg",
+    "static/media/calculator.jpg": "/gurcharan_portfolio/static/media/calculator.92b335f7.jpg",
+    "static/media/databases.jpg": "/gurcharan_portfolio/static/media/databases.201155b8.jpg",
+    "static/media/front_end_skills.jpg": "/gurcharan_portfolio/static/media/front_end_skills.b67971ba.jpg",
+    "static/media/intro.jpg": "/gurcharan_portfolio/static/media/intro.43172a9e.jpg",
+    "static/media/logo.jpg": "/gurcharan_portfolio/static/media/logo.3705b72a.jpg",
+    "static/media/mid-eclipse copy.svg": "/gurcharan_portfolio/static/media/mid-eclipse copy.9aae08a9.svg",
+    "static/media/responsive.jpg": "/gurcharan_portfolio/static/media/responsive.c400e6fc.jpg",
+    "static/media/small-eclipse copy.svg": "/gurcharan_portfolio/static/media/small-eclipse copy.d769658e.svg",
+    "static/media/tools.jpg": "/gurcharan_portfolio/static/media/tools.bfd0bcef.jpg",
+    "static/media/weather.jpg": "/gurcharan_portfolio/static/media/weather.1cc7fa60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b36ebb63.js",
+    "static/js/2.18dd93e2.chunk.js",
+    "static/css/main.685de65c.chunk.css",
+    "static/js/main.4e844d42.chunk.js"
+  ]
+}
