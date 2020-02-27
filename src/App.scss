@@ -1,0 +1,63 @@
+// .App {
+//   text-align: center;
+// }
+
+// .App-logo {
+//   height: 40vmin;
+// }
+
+// .App-header {
+//   background-color: #282c34;
+//   min-height: 100vh;
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   justify-content: center;
+//   font-size: calc(10px + 2vmin);
+//   color: white;
+// }
+
+// .App-link {
+//   color: #09d3ac;
+// }
+
+// @import './styles/navi';
+@import './styles/navigation';
+@import './styles/home';
+@import './styles/skills';
+@import './styles/project';
+@import './styles/education';
+@import './styles/experience';
+@import './styles/contact';
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    // box-sizing: border-box;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+.big-circle {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: -1;
+    opacity: 0.6;
+    height: 60%;
+}
+.mid-circle {
+    position: absolute;
+    top: 30%;
+    right: 30%;
+    z-index: -1;
+    height: 60%;
+    opacity: 0.5;
+    
+}
+.small-circle {
+    position: absolute;
+    bottom: 0%;
+    left: 20%;
+    z-index: -1;
+    opacity: 0.6;
+}
